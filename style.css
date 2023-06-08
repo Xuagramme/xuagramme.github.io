@@ -1,15 +1,24 @@
 h1{
+font-size: 50px;
+text-align: center;
+color: #5FC2BA;
+font-family: Avenir, sans-serif;
+}
+
+h2{
 font-size: 30px;
 text-align: center;
-color: #de7471
+color: #5FC2BA;
+font-family: Avenir, sans-serif;
 }
 
 p{
 font-size: 20px;
 text-align: left;
-font-family: Helvetica, sans-serif;
+font-family: Avenir, sans-serif;
+color: #3B556D;
 }
 
 body {
-background-color: #007471;
+background-color: #FFFFFF;
 }
